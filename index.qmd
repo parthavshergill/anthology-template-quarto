@@ -18,10 +18,10 @@ image: "data/grand-tour.png"
 project-members:
   - name: Helena Miton
     designation: Assistant Professor of Organizational Behavior at Stanford GSB
-  - name: Parthav Shergil
+  - name: Parthav Shergill
     designation: Intern - Winter/Spring, 2024
 
-project-description: "Merchant textbooks were exchanged for centuries in Western Europe (especially Low Countries, France and Italy) and included various types of information, including, but not limited to, describing the ideal of the profession and their desired qualities, economic information including which goods could be found in which city (and at which rates), social and institutional information (e.g., what are the institutions and customs of trading in different places), and arithmetic and book-keeping skills. Historical scholarship has only scratched the surface of the rich and diverse information. The Ars Mercatoria Project builds on the catalog of merchants’ manuals of the same name, covering thousands of manuals over the time period 1470-1700. This project aims to sketch a better understanding of the knowledge that was deemed worth circulating -in print- by a professional community.."
+project-description: "Merchant textbooks were exchanged for centuries in Western Europe (especially Low Countries, France and Italy) and included various types of information, including, but not limited to, describing the ideal of the profession and their desired qualities, economic information including which goods could be found in which city (and at which rates), social and institutional information (e.g., what are the institutions and customs of trading in different places), and arithmetic and book-keeping skills. Historical scholarship has only scratched the surface of the rich and diverse information. The Ars Mercatoria Project builds on the catalog of merchants’ manuals of the same name, covering thousands of manuals over the time period 1470-1700. This project aims to sketch a better understanding of the knowledge that was deemed worth circulating -in print- by a professional community."
 
 ---
 # Article 1
